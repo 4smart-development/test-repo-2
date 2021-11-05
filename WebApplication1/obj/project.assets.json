@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "d:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "d:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\KIryl_Bahdanovich\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "d:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIryl_Bahdanovich\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMg60l5gKHbVWDehxbvbxSi3lMxBXFR0wXk+TEDWoGc1XDuEzH9ONS1RZ3+ffE7nKAjtou0WdQEI7JBLbZpdSQ==",
+  "dgSpecHash": "ajOB2uJJIqJ2iH+YroTeW8yykMUTWkZD9uxKekVrstTK8LrxUtBKluVM6mgDSta0cIcRbEzvAKj1+3wKwa2sxQ==",
   "success": true,
-  "projectFilePath": "D:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "d:\\Personal\\Git\\4smart-test-repos\\test-repo-2\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIryl_Bahdanovich\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\KIryl_Bahdanovich\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
